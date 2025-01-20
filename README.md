@@ -16,3 +16,8 @@ A modern AI-driven tool that efficiently summarizes long-form content. This web 
 - **Copy to Clipboard**: Quickly copy the summarized content to your clipboard, making it easy to share or save.
 - **Efficient Data Management with RTK Query**: Powered by **Redux Toolkit Query (RTK Query)**, this feature optimizes API requests, firing only when needed, ensuring smooth data handling.
 - **Chrome Extension**: Access the article summarizer directly from your browser with an easy-to-use Chrome extension.
+
+---
+
+## 🌐 **Live Demo**:
+The app is live and deployed! You can try it out [here](https://sumz-aneeq.netlify.app/).
